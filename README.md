@@ -26,6 +26,7 @@ These steps are executed:
 - Set sending mail address
 - Set Email subject
 - Compose your email
+- Send email and logout 
 - Close the browser
 - Again open browser and goto gmail 
 - Login gmail with email and password
